@@ -43,3 +43,4 @@ The model is deployed using Streamlit, a powerful and easy-to-use framework for 
 
 You can interact with the deployed model through this Streamlit app: [Credit Card Fraud Detection App](https://short-parents-listen.loca.lt/)
 
+!Application Interface](application interface)
