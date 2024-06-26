@@ -45,4 +45,5 @@ You can interact with the deployed model through this Streamlit app: [Credit Car
 #### Outputs Screenshot
 ([application interface](https://github.com/ShwetaNagapure/Credit_Card_fraud_Detection_/blob/main/application%20interface.png))
 
-
+<h4>Author</h4>
+<p>-SHWETA NAGAPURE</p>
