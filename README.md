@@ -42,5 +42,7 @@ The model is deployed using Streamlit, a powerful and easy-to-use framework for 
 ### Streamlit App
 
 You can interact with the deployed model through this Streamlit app: [Credit Card Fraud Detection App](https://short-parents-listen.loca.lt/)
+#### Outputs Screenshot
+([application interface](https://github.com/ShwetaNagapure/Credit_Card_fraud_Detection_/blob/main/application%20interface.png))
 
-![Application Interface]([application interface](https://github.com/ShwetaNagapure/Credit_Card_fraud_Detection_/blob/main/application%20interface.png))
+
